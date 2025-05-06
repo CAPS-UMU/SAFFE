@@ -1,6 +1,6 @@
 ## Use python 3.9
 
-torch==2.0.1
+torch==2.6.0
 torchvision==0.15.2 
 torchtext==0.15.2
 datasets==2.15.0

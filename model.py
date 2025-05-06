@@ -483,7 +483,6 @@ class Transformer(nn.Module):
 ################################################
  
         concat_all= torch.cat((decoder_image_10,decoder_image_9),1)
-
         self.batchsize= batch_size
         #self.batchsize= 10
         y = concat_all.reshape(self.batchsize, 76800)

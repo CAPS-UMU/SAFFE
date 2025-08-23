@@ -3,3 +3,6 @@ This implementation solely accommodates pretrained encoder models and bi-modal f
 ☀️ This model operates using the imagenet-100 kegalle dataset.
 
 ☀️ The model vector dimension is 768
+
+Citation
+
